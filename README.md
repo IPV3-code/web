@@ -1,2 +1,1 @@
-# web
-Author - Sidharth
+# web Author - Sidharth
